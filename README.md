@@ -23,13 +23,12 @@ Urdu wordpad by <a href="http://hykaz.com" target="_blank"> KazSoft </a> is a FR
 </ul>
 <hr />
 <h2> System Requirements </h2>
-
-    <ul>
-     <li> Windows 7 SP1 or Above</li> 
-     <li> MS .Net Framework 4.6.2 or above</li> 
-     <li> Urdu (Optional: Arabic, Persian/Farsi) Language Enabled from Control Panel.</li> 
-            <li> PakSign Phonetic Urdu Keyboard.</li> 
-      </ul>
+ <ul>
+     <li> Windows 7 SP1 or Above </li> 
+     <li> MS .Net Framework 4.6.2 or above </li> 
+     <li> Urdu (Optional: Arabic, Persian/Farsi) Language Enabled from Control Panel. </li> 
+     <li> PakSign Phonetic Urdu Keyboard. </li> 
+ </ul>
 <hr />
 <b> Product homepage </b> :  <a href="http://hykaz.com/urdu-wordpad/" target="_blank"> http://hykaz.com/urdu-wordpad/ </a> <br />
 <b> Download </b> :  <a href="hykaz.com/wp-content/uploads/downloads/2018/04/KazSoft_UrduWordpad_090_Setup.zip" target="_blank"> Click here to download Windows Installer </a>
