@@ -2,6 +2,7 @@
 <pre>
 Version 0.9.0 Beta
 Released: 23-04-2018
+Programmer: Syed Hasan Yasar Kazmi [ KazSoft ]
 </pre>
 <p>
 Urdu wordpad by <a href="http://hykaz.com" target="_blank"> KazSoft </a> is a FREEWARE complete Urdu, Arabic and Persian word processing solution for Microsoft Windows. Developed in VB.net The product is at the moment in its Beta phase. This software has following functionalities
@@ -20,3 +21,5 @@ Urdu wordpad by <a href="http://hykaz.com" target="_blank"> KazSoft </a> is a FR
       <li> Save as RTF, HTML or text. </li>
       <li> Much more.. </li> 
 </ul>
+<hr />
+<b> Product homepage </b> :  <a href="http://hykaz.com/urdu-wordpad/" target="_blank"> http://hykaz.com/urdu-wordpad/ </a>
